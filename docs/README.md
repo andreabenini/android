@@ -8,8 +8,8 @@
 ## Packages management
 ```sh
 # Install brand new or install and reinstall if already present
-adb install    app-debug.apk
-adb install -r app-debug.apk
+adb install    app.apk
+adb install -r app.apk
 
 # Uninstall
 adb uninstall ben.backfire.adbmessagebox
